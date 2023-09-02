@@ -4,14 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1257b626-7230-487a-9f1e-90eecab99d87" name="Changes" comment="HW1">
-      <change beforePath="$PROJECT_DIR$/Homework1/src/InMemoryModel/ModelStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework1/src/InMemoryModel/ModelStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework1/src/ModelElements/Flash.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework1/src/ModelElements/Flash.java" afterDir="false" />
+    <list default="true" id="1257b626-7230-487a-9f1e-90eecab99d87" name="Changes" comment="HW1+">
+      <change afterPath="$PROJECT_DIR$/Homework2/Homework2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/Abstractions/IGameItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/Abstractions/ItemGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/Core/Core.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/Rewards/Coal/CoalGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/Rewards/Coal/CoalRewards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/Rewards/Gem/GemGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/Rewards/Gem/GemRewards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/Rewards/Gold/GoldGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/Rewards/Gold/GoldRewards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/Rewards/Silver/SilverGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/Rewards/Silver/SilverRewards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,7 +52,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-18",
-    "last_opened_file_path": "C:/Users/Администратор/Documents/Software architecture/SsoftwareArchitecture/Homework1/src"
+    "last_opened_file_path": "C:/Users/Администратор/Documents/Software architecture/SsoftwareArchitecture/Homework1/src",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -39,6 +64,20 @@
       <recent name="C:\Users\Администратор\Documents\Software architecture\SsoftwareArchitecture\Homework1\src" />
       <recent name="C:\Users\Администратор\Documents\Software architecture\SsoftwareArchitecture\src" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="Homework2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -56,11 +95,19 @@
       <option name="project" value="LOCAL" />
       <updated>1693075013176</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HW1+">
+      <created>1693075614876</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693075614876</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW1" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW1" />
+    <MESSAGE value="HW1+" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW1+" />
   </component>
 </project>
