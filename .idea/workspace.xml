@@ -4,20 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1257b626-7230-487a-9f1e-90eecab99d87" name="Changes" comment="HW1+">
-      <change afterPath="$PROJECT_DIR$/Homework2/Homework2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework2/src/Abstractions/IGameItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework2/src/Abstractions/ItemGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework2/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework2/src/Core/Core.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework2/src/Rewards/Coal/CoalGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework2/src/Rewards/Coal/CoalRewards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework2/src/Rewards/Gem/GemGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework2/src/Rewards/Gem/GemRewards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework2/src/Rewards/Gold/GoldGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework2/src/Rewards/Gold/GoldRewards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework2/src/Rewards/Silver/SilverGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework2/src/Rewards/Silver/SilverRewards.java" afterDir="false" />
+    <list default="true" id="1257b626-7230-487a-9f1e-90eecab99d87" name="Changes" comment="HW2">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework3/Homework3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework3/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework3/src/Cars/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework3/src/Cars/CleaningMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework3/src/Cars/FlyCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework3/src/Cars/GasStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework3/src/Cars/Toyota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework3/src/Cars/Tricycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework3/src/Cars/iRefuel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar3/Seminar3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar3/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar3/src/Cars/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar3/src/Cars/Toyota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5/Seminar5.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -29,8 +31,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -52,7 +54,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-18",
-    "last_opened_file_path": "C:/Users/Администратор/Documents/Software architecture/SsoftwareArchitecture/Homework1/src",
+    "last_opened_file_path": "C:/Users/Администратор/Documents/Software architecture/SsoftwareArchitecture/Homework3/src",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -61,11 +63,19 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Администратор\Documents\Software architecture\SsoftwareArchitecture\Homework3\src" />
       <recent name="C:\Users\Администратор\Documents\Software architecture\SsoftwareArchitecture\Homework1\src" />
       <recent name="C:\Users\Администратор\Documents\Software architecture\SsoftwareArchitecture\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.App (1)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="Homework3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="Homework2" />
@@ -75,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
@@ -102,12 +113,20 @@
       <option name="project" value="LOCAL" />
       <updated>1693075614876</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="HW2">
+      <created>1693640859803</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693640859803</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW1" />
     <MESSAGE value="HW1+" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW1+" />
+    <MESSAGE value="HW2" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW2" />
   </component>
 </project>
