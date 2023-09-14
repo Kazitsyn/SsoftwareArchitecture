@@ -4,22 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1257b626-7230-487a-9f1e-90eecab99d87" name="Changes" comment="HW2">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework3/Homework3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework3/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework3/src/Cars/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework3/src/Cars/CleaningMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework3/src/Cars/FlyCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework3/src/Cars/GasStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework3/src/Cars/Toyota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework3/src/Cars/Tricycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework3/src/Cars/iRefuel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar3/Seminar3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar3/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar3/src/Cars/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar3/src/Cars/Toyota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar5/Seminar5.iml" afterDir="false" />
+    <list default="true" id="1257b626-7230-487a-9f1e-90eecab99d87" name="Changes" comment="HW3">
+      <change afterPath="$PROJECT_DIR$/HomeWork4/HomeWork4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork4/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork4/src/GeometryFigure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork4/src/IShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork4/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork4/src/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -31,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -48,19 +40,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "openjdk-18",
-    "last_opened_file_path": "C:/Users/Администратор/Documents/Software architecture/SsoftwareArchitecture/Homework3/src",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Администратор/Documents/Software architecture/SsoftwareArchitecture/Homework3/src&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Администратор\Documents\Software architecture\SsoftwareArchitecture\Homework3\src" />
@@ -68,7 +60,7 @@
       <recent name="C:\Users\Администратор\Documents\Software architecture\SsoftwareArchitecture\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App (1)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="Homework3" />
@@ -83,8 +75,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HomeWork4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
       </list>
@@ -120,13 +120,32 @@
       <option name="project" value="LOCAL" />
       <updated>1693640859803</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="HW3">
+      <created>1694591609191</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694591609191</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW1" />
     <MESSAGE value="HW1+" />
     <MESSAGE value="HW2" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW2" />
+    <MESSAGE value="HW3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW3" />
   </component>
 </project>
