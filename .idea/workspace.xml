@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1257b626-7230-487a-9f1e-90eecab99d87" name="Changes" comment="HW4+">
-      <change afterPath="$PROJECT_DIR$/Homework5/HW5.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework5/HW5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework5/Homework5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/src/Model/GPS_sensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/src/View/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/src/View/UX.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694699720514</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="HW4+">
+      <created>1695189544772</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1695189544772</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
