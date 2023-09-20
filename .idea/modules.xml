@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HomeWork4/HomeWork4.iml" filepath="$PROJECT_DIR$/HomeWork4/HomeWork4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework4/HomeWork4.iml" filepath="$PROJECT_DIR$/Homework4/HomeWork4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Homework1/Homework1.iml" filepath="$PROJECT_DIR$/Homework1/Homework1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Homework2/Homework2.iml" filepath="$PROJECT_DIR$/Homework2/Homework2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Homework3/Homework3.iml" filepath="$PROJECT_DIR$/Homework3/Homework3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework5/Homework5.iml" filepath="$PROJECT_DIR$/Homework5/Homework5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Seminar5.iml" filepath="$PROJECT_DIR$/Seminar5/Seminar5.iml" />
       <module fileurl="file://$PROJECT_DIR$/SsoftwareArchitecture.iml" filepath="$PROJECT_DIR$/SsoftwareArchitecture.iml" />
