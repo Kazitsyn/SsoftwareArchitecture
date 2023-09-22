@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1257b626-7230-487a-9f1e-90eecab99d87" name="Changes" comment="HW5+" />
+    <list default="true" id="1257b626-7230-487a-9f1e-90eecab99d87" name="Changes" comment="HW6">
+      <change afterPath="$PROJECT_DIR$/Homework6/HW5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework6/HW6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695190162408</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="HW6">
+      <created>1695362993264</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1695362993264</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +178,7 @@
     <MESSAGE value="HW4" />
     <MESSAGE value="HW4+" />
     <MESSAGE value="HW5+" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW5+" />
+    <MESSAGE value="HW6" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW6" />
   </component>
 </project>
