@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1257b626-7230-487a-9f1e-90eecab99d87" name="Changes" comment="HW4+">
-      <change afterPath="$PROJECT_DIR$/Homework5/src/Model/GPS_sensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework5/src/View/GUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework5/src/View/UX.java" afterDir="false" />
-    </list>
+    <list default="true" id="1257b626-7230-487a-9f1e-90eecab99d87" name="Changes" comment="HW5+" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695189544772</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="HW5+">
+      <created>1695190162408</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1695190162408</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +166,7 @@
     <MESSAGE value="HW3" />
     <MESSAGE value="HW4" />
     <MESSAGE value="HW4+" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW4+" />
+    <MESSAGE value="HW5+" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW5+" />
   </component>
 </project>
